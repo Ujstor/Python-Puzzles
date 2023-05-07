@@ -1,10 +1,3 @@
-
-Python Programming Puzzles - Exercises, Practice, Solution
-Last update on May 05 2023 09:20:09 (UTC/GMT +8 hours)
-Python Programming Puzzles [100 exercises with solution]
-
-[An editor is available at the bottom of the page to write and execute the scripts.  Go to the editor]
-
 1. Write a Python program to find a list of integers with exactly two occurrences of nineteen and at least three occurrences of five. Return True otherwise False.
 Input:
 [19, 19, 15, 5, 3, 5, 5, 2]
@@ -1381,7 +1374,6 @@ More to Come !
 Do not submit any solution of the above exercises at here, if you want to contribute go to the appropriate exercise page.
 
 Test your Python skills with w3resource's quiz
-﻿
 
 Follow us on Facebook and Twitter for latest update.
 Python: Tips of the Day
@@ -1413,34 +1405,3 @@ passed
 passed
 passed
 passed
-
- 
-
-    Weekly Trends
-    Java Basic Programming Exercises
-    SQL Subqueries
-    Adventureworks Database Exercises
-    C# Sharp Basic Exercises
-    SQL COUNT() with distinct
-    JavaScript String Exercises
-    JavaScript HTML Form Validation
-    Java Collection Exercises
-    SQL COUNT() function
-    SQL Inner Join
-    JavaScript functions Exercises
-    Python Tutorial
-    Python Array Exercises
-    SQL Cross Join
-    C# Sharp Array Exercises
-
-We are closing our Disqus commenting system for some maintenanace issues. You may write to us at reach[at]yahoo[dot]com or visit us at Facebook
-This work is licensed under a Creative Commons Attribution 4.0 International License.
-©w3resource.com 2011-2023
-
-    Privacy
-    About
-    Contact
-    Feedback
-    Advertise
-
-
