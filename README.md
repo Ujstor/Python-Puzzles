@@ -23,4 +23,4 @@ Please make sure your code follows the same style and conventions as the existin
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This repository is licensed under the MIT License. See the [LICENSE](https://github.com/Ujstor/Python-Puzzles/blob/master/LICENCE) file for details.
