@@ -1,8 +1,8 @@
-# Python Puzzles
+# Python exercises
 
-This repository contains solutions to the Python puzzles found on [w3resource.com](https://www.w3resource.com/python-exercises/puzzles/index.php).
+This repository contains solutions to the Python puzzles found on [w3resource.com](https://www.w3resource.com/python-exercises/).
 
-Each file contains a Python program that solves a particular puzzle. The puzzles are organized into folders based on their level of difficulty: "Easy", "Medium", "Hard", and "Expert".
+Each file contains a Python program that solves a particular puzzle category.
 
 ## Getting Started
 
